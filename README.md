@@ -11,6 +11,7 @@ $a = F/m$
 - Durability of the drone
 - Size of the drone
 - Topography and Climate
+- Power consumption
 
 ### Software
 - Dynamic Memory allocation
