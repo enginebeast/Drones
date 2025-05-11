@@ -12,10 +12,8 @@ $a = F/m$
 
 ### In the field
 - Static or dynamic obstacles
+- Wireless communication
+- Climate
 
 ### Software
 - Clear the roles of the drone program and the main control program
-
-### Other problems
-- Wireless communication
-- Climate
