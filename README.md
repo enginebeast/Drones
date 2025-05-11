@@ -8,12 +8,14 @@ Drones working in disaster areas and the main program managing them
 $F = T - mg$\
 $a = F/m$
 
-- Durability of the drone
 - Size of the drone
-- Topography and Climate
-- Power consumption
-- Wireless communication
 - Static or dynamic obstacles
 
 ### Software
 - Clear role the drone program and the main control program
+
+### Other problems
+- Wireless communication
+- Climate
+- Durability of the drone
+- Power consumption
