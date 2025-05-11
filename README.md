@@ -13,6 +13,7 @@ $a = F/m$
 - Topography and Climate
 - Power consumption
 - Wireless communication
+- Static or dynamic obstacles
 
 ### Software
 - Clear role the drone program and the main control program
