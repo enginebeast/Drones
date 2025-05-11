@@ -12,7 +12,7 @@ $a = F/m$
 - Size of the drone
 - Topography and Climate
 - Power consumption
+- Wireless communication
 
 ### Software
-- Dynamic Memory allocation
 - Clear role the drone program and the main control program
