@@ -1,6 +1,13 @@
 ## Main function
-Drones working in disaster areas and the main program managing them
+Program managing drones
 
+## Plan
+Level 1. Working on the industrial field\
+Level 2. Working on the disaster field
+
+## Difference between industrial place, and disaster place
+- Climates
+- Simple varialbes vs Complex variables
 
 ## Things to consider
 ### Basic motion of drone
@@ -8,12 +15,13 @@ Drones working in disaster areas and the main program managing them
 $F = T - mg$\
 $a = F/m$
 - Size of the drone
-- Power consumption
+- Power consumption and running time
 
 ### In the field
 - Static or dynamic obstacles
 - Wireless communication
-- Climate
 
 ### Software
 - Clear the roles of the drone program and the main control program
+
+### etc
